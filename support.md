@@ -2,7 +2,9 @@
 
 Last updated: 2026-07-07
 
-Public support URL: `https://github.com/iwopant0825/goalloop-ai-policies/issues`
+Public support page: `https://github.com/iwopant0825/goalloop-ai-policies/blob/main/support.md`
+
+Issue intake: `https://github.com/iwopant0825/goalloop-ai-policies/issues`
 
 ## What To Include
 
